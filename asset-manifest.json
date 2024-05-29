@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/logv-rec/static/css/main.a8025ea2.css",
+    "main.js": "/logv-rec/static/js/main.8e90f9c1.js",
+    "static/js/453.1b6cbde4.chunk.js": "/logv-rec/static/js/453.1b6cbde4.chunk.js",
+    "static/media/OIP.jpg": "/logv-rec/static/media/OIP.26dd8888eb47a6477134.jpg",
+    "index.html": "/logv-rec/index.html",
+    "main.a8025ea2.css.map": "/logv-rec/static/css/main.a8025ea2.css.map",
+    "main.8e90f9c1.js.map": "/logv-rec/static/js/main.8e90f9c1.js.map",
+    "453.1b6cbde4.chunk.js.map": "/logv-rec/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8025ea2.css",
+    "static/js/main.8e90f9c1.js"
+  ]
+}
